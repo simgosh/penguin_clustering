@@ -13,6 +13,7 @@ Penguins clustering according to their physical features with K-Means algorithm.
 
 
 #Some graphs attend below:
+
 ![count of gender before](https://github.com/user-attachments/assets/494cea84-04e2-4469-92ef-fe3778ed63c7)
 ![hstogram flipper](https://github.com/user-attachments/assets/6c45f7e0-3c8f-4920-a1d4-16d30314c308)
 ![after gender](https://github.com/user-attachments/assets/8d08339b-7ab2-4d99-acd6-b3d97a160b2e)
