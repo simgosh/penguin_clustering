@@ -22,4 +22,5 @@ Penguins clustering according to their physical features with K-Means algorithm.
 ![scatter plot ](https://github.com/user-attachments/assets/730530e8-9d7e-4629-a84b-8f16d26dc18b)
 ![last_cluster](https://github.com/user-attachments/assets/f9c5b3b1-f540-4150-9100-5fa50b00bbeb)
 
-# Result = Generally, Cluster 0 (purple) and Cluster 2 (green) may be have more heavier and longer penguins. Cluster 1 (pink) and Cluster 4 (blue) may have smaller and more lightweigth penguins.
+# Result:
+Generally, Cluster 0 (purple) and Cluster 2 (green) may be have more heavier and longer penguins. Cluster 1 (pink) and Cluster 4 (blue) may have smaller and more lightweigth penguins. This result was evulated according to cluster summary report
